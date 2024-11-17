@@ -1,0 +1,84 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+model Profile {
+  profileCode       String       @id @default(dbgenerated())
+  wantedJobTitle    String
+  firstName         String
+  lastName          String
+  email             String
+  phone             String?
+  country           String?
+  city              String?
+  address           String?
+  postalCode        Int?
+  drivingLicense    String?
+  nationality       String?
+  placeOfBirth      String?
+  dateOfBirth       DateTime?
+  photo             String?
+  workingExperience String?      @db.Text
+  createdAt         DateTime     @default(now())
+  updatedAt         DateTime     @updatedAt
+  employments       Employment[] @relation("ProfileToEmployment")
+  educations        Education[]  @relation("ProfileToEducation")
+  skills            Skill[]      @relation("ProfileToSkill")
+
+  @@map("profile")
+}
+
+model Employment {
+  id          Int       @id @default(autoincrement())
+  profileCode String
+  profile     Profile   @relation("ProfileToEmployment", fields: [profileCode], references: [profileCode], onDelete: Cascade)
+  jobTitle    String
+  employer    String
+  startDate   DateTime
+  endDate     DateTime?
+  city        String?
+  description String?
+  createdAt   DateTime  @default(now())
+  updatedAt   DateTime  @updatedAt
+
+  @@map("employment")
+}
+
+model Education {
+  id          Int       @id @default(autoincrement())
+  profileCode String
+  profile     Profile   @relation("ProfileToEducation", fields: [profileCode], references: [profileCode], onDelete: Cascade)
+  school      String
+  degree      String
+  startDate   DateTime
+  endDate     DateTime?
+  city        String?
+  description String?
+  createdAt   DateTime  @default(now())
+  updatedAt   DateTime  @updatedAt
+
+  @@map("education")
+}
+
+model Skill {
+  id          Int      @id @default(autoincrement())
+  profileCode String
+  profile     Profile  @relation("ProfileToSkill", fields: [profileCode], references: [profileCode], onDelete: Cascade)
+  skill       String
+  level       String?
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  @@map("skill")
+}

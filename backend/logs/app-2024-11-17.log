@@ -1,0 +1,1146 @@
+ [LOGGER] 2024-11-17 10:17:56.590 PM error : uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/index.ts(14,30): error TS2769: No overload matches this call.
+  The last overload gave the following error.
+    Argument of type '(req: Request, res: Response) => Promise<void | Response<any, Record<string, any>>>' is not assignable to parameter of type 'Application<Record<string, any>>'.
+      Type '(req: Request<ParamsDictionary, any, any, ParsedQs, Record<string, any>>, res: Response<any, Record<string, any>>) => Promise<...>' is missing the following properties from type 'Application<Record<string, any>>': init, defaultConfiguration, engine, set, and 63 more.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/index.ts(14,30): error TS2769: No overload matches this call.
+  The last overload gave the following error.
+    Argument of type '(req: Request, res: Response) => Promise<void | Response<any, Record<string, any>>>' is not assignable to parameter of type 'Application<Record<string, any>>'.
+      Type '(req: Request<ParamsDictionary, any, any, ParsedQs, Record<string, any>>, res: Response<any, Record<string, any>>) => Promise<...>' is missing the following properties from type 'Application<Record<string, any>>': init, defaultConfiguration, engine, set, and 63 more.
+
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\routes\index.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-302765068677473.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-302765068677473.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-302765068677473.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1019:12)
+ [LOGGER] 2024-11-17 10:19:12.969 PM error : uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/index.ts(14,30): error TS2769: No overload matches this call.
+  The last overload gave the following error.
+    Argument of type '(req: Request, res: Response) => Promise<void | Response<any, Record<string, any>>>' is not assignable to parameter of type 'Application<Record<string, any>>'.
+      Type '(req: Request<ParamsDictionary, any, any, ParsedQs, Record<string, any>>, res: Response<any, Record<string, any>>) => Promise<...>' is missing the following properties from type 'Application<Record<string, any>>': init, defaultConfiguration, engine, set, and 63 more.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/index.ts(14,30): error TS2769: No overload matches this call.
+  The last overload gave the following error.
+    Argument of type '(req: Request, res: Response) => Promise<void | Response<any, Record<string, any>>>' is not assignable to parameter of type 'Application<Record<string, any>>'.
+      Type '(req: Request<ParamsDictionary, any, any, ParsedQs, Record<string, any>>, res: Response<any, Record<string, any>>) => Promise<...>' is missing the following properties from type 'Application<Record<string, any>>': init, defaultConfiguration, engine, set, and 63 more.
+
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\routes\index.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-302765068677473.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-302765068677473.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-302765068677473.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1019:12)
+ [LOGGER] 2024-11-17 10:19:28.630 PM error : uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/index.ts(14,30): error TS2769: No overload matches this call.
+  The last overload gave the following error.
+    Argument of type '(req: Request, res: Response) => Promise<void | Response<any, Record<string, any>>>' is not assignable to parameter of type 'Application<Record<string, any>>'.
+      Type '(req: Request<ParamsDictionary, any, any, ParsedQs, Record<string, any>>, res: Response<any, Record<string, any>>) => Promise<...>' is missing the following properties from type 'Application<Record<string, any>>': init, defaultConfiguration, engine, set, and 63 more.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/index.ts(14,30): error TS2769: No overload matches this call.
+  The last overload gave the following error.
+    Argument of type '(req: Request, res: Response) => Promise<void | Response<any, Record<string, any>>>' is not assignable to parameter of type 'Application<Record<string, any>>'.
+      Type '(req: Request<ParamsDictionary, any, any, ParsedQs, Record<string, any>>, res: Response<any, Record<string, any>>) => Promise<...>' is missing the following properties from type 'Application<Record<string, any>>': init, defaultConfiguration, engine, set, and 63 more.
+
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\routes\index.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-302765068677473.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-302765068677473.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-302765068677473.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1019:12)
+ [LOGGER] 2024-11-17 10:19:47.086 PM error : uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/index.ts(14,30): error TS2769: No overload matches this call.
+  The last overload gave the following error.
+    Argument of type '(req: Request, res: Response) => Promise<void | Response<any, Record<string, any>>>' is not assignable to parameter of type 'Application<Record<string, any>>'.
+      Type '(req: Request<ParamsDictionary, any, any, ParsedQs, Record<string, any>>, res: Response<any, Record<string, any>>) => Promise<...>' is missing the following properties from type 'Application<Record<string, any>>': init, defaultConfiguration, engine, set, and 63 more.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/index.ts(14,30): error TS2769: No overload matches this call.
+  The last overload gave the following error.
+    Argument of type '(req: Request, res: Response) => Promise<void | Response<any, Record<string, any>>>' is not assignable to parameter of type 'Application<Record<string, any>>'.
+      Type '(req: Request<ParamsDictionary, any, any, ParsedQs, Record<string, any>>, res: Response<any, Record<string, any>>) => Promise<...>' is missing the following properties from type 'Application<Record<string, any>>': init, defaultConfiguration, engine, set, and 63 more.
+
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\routes\index.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-302765068677473.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-302765068677473.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-302765068677473.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1019:12)
+ [LOGGER] 2024-11-17 10:19:52.736 PM error : uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/index.ts(14,30): error TS2769: No overload matches this call.
+  The last overload gave the following error.
+    Argument of type '(req: Request, res: Response) => Promise<void | Response<any, Record<string, any>>>' is not assignable to parameter of type 'Application<Record<string, any>>'.
+      Type '(req: Request<ParamsDictionary, any, any, ParsedQs, Record<string, any>>, res: Response<any, Record<string, any>>) => Promise<...>' is missing the following properties from type 'Application<Record<string, any>>': init, defaultConfiguration, engine, set, and 63 more.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/index.ts(14,30): error TS2769: No overload matches this call.
+  The last overload gave the following error.
+    Argument of type '(req: Request, res: Response) => Promise<void | Response<any, Record<string, any>>>' is not assignable to parameter of type 'Application<Record<string, any>>'.
+      Type '(req: Request<ParamsDictionary, any, any, ParsedQs, Record<string, any>>, res: Response<any, Record<string, any>>) => Promise<...>' is missing the following properties from type 'Application<Record<string, any>>': init, defaultConfiguration, engine, set, and 63 more.
+
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\routes\index.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-302765068677473.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-302765068677473.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-302765068677473.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1019:12)
+ [LOGGER] 2024-11-17 10:24:32.191 PM error : uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/index.ts(14,30): error TS2769: No overload matches this call.
+  The last overload gave the following error.
+    Argument of type '(req: Request, res: Response) => Promise<void | Response<any, Record<string, any>>>' is not assignable to parameter of type 'Application<Record<string, any>>'.
+      Type '(req: Request<ParamsDictionary, any, any, ParsedQs, Record<string, any>>, res: Response<any, Record<string, any>>) => Promise<...>' is missing the following properties from type 'Application<Record<string, any>>': init, defaultConfiguration, engine, set, and 63 more.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/index.ts(14,30): error TS2769: No overload matches this call.
+  The last overload gave the following error.
+    Argument of type '(req: Request, res: Response) => Promise<void | Response<any, Record<string, any>>>' is not assignable to parameter of type 'Application<Record<string, any>>'.
+      Type '(req: Request<ParamsDictionary, any, any, ParsedQs, Record<string, any>>, res: Response<any, Record<string, any>>) => Promise<...>' is missing the following properties from type 'Application<Record<string, any>>': init, defaultConfiguration, engine, set, and 63 more.
+
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\routes\index.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1019:12)
+ [LOGGER] 2024-11-17 10:25:29.965 PM error : uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/index.ts(14,30): error TS2769: No overload matches this call.
+  The last overload gave the following error.
+    Argument of type '(req: Request, res: Response) => Promise<void | Response<any, Record<string, any>>>' is not assignable to parameter of type 'Application<Record<string, any>>'.
+      Type '(req: Request<ParamsDictionary, any, any, ParsedQs, Record<string, any>>, res: Response<any, Record<string, any>>) => Promise<...>' is missing the following properties from type 'Application<Record<string, any>>': init, defaultConfiguration, engine, set, and 63 more.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/index.ts(14,30): error TS2769: No overload matches this call.
+  The last overload gave the following error.
+    Argument of type '(req: Request, res: Response) => Promise<void | Response<any, Record<string, any>>>' is not assignable to parameter of type 'Application<Record<string, any>>'.
+      Type '(req: Request<ParamsDictionary, any, any, ParsedQs, Record<string, any>>, res: Response<any, Record<string, any>>) => Promise<...>' is missing the following properties from type 'Application<Record<string, any>>': init, defaultConfiguration, engine, set, and 63 more.
+
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\routes\index.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1019:12)
+ [LOGGER] 2024-11-17 10:26:26.106 PM error : uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/index.ts(14,30): error TS2769: No overload matches this call.
+  The last overload gave the following error.
+    Argument of type '(req: Request, res: Response) => Promise<void | Response<any, Record<string, any>>>' is not assignable to parameter of type 'Application<Record<string, any>>'.
+      Type '(req: Request<ParamsDictionary, any, any, ParsedQs, Record<string, any>>, res: Response<any, Record<string, any>>) => Promise<...>' is missing the following properties from type 'Application<Record<string, any>>': init, defaultConfiguration, engine, set, and 63 more.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/index.ts(14,30): error TS2769: No overload matches this call.
+  The last overload gave the following error.
+    Argument of type '(req: Request, res: Response) => Promise<void | Response<any, Record<string, any>>>' is not assignable to parameter of type 'Application<Record<string, any>>'.
+      Type '(req: Request<ParamsDictionary, any, any, ParsedQs, Record<string, any>>, res: Response<any, Record<string, any>>) => Promise<...>' is missing the following properties from type 'Application<Record<string, any>>': init, defaultConfiguration, engine, set, and 63 more.
+
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\routes\index.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1019:12)
+ [LOGGER] 2024-11-17 10:27:14.402 PM error : uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/index.ts(14,30): error TS2769: No overload matches this call.
+  The last overload gave the following error.
+    Argument of type '(req: Request, res: Response) => Promise<void | Response<any, Record<string, any>>>' is not assignable to parameter of type 'Application<Record<string, any>>'.
+      Type '(req: Request<ParamsDictionary, any, any, ParsedQs, Record<string, any>>, res: Response<any, Record<string, any>>) => Promise<...>' is missing the following properties from type 'Application<Record<string, any>>': init, defaultConfiguration, engine, set, and 63 more.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/index.ts(14,30): error TS2769: No overload matches this call.
+  The last overload gave the following error.
+    Argument of type '(req: Request, res: Response) => Promise<void | Response<any, Record<string, any>>>' is not assignable to parameter of type 'Application<Record<string, any>>'.
+      Type '(req: Request<ParamsDictionary, any, any, ParsedQs, Record<string, any>>, res: Response<any, Record<string, any>>) => Promise<...>' is missing the following properties from type 'Application<Record<string, any>>': init, defaultConfiguration, engine, set, and 63 more.
+
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\routes\index.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1019:12)
+ [LOGGER] 2024-11-17 10:27:23.674 PM error : uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/index.ts(14,30): error TS2769: No overload matches this call.
+  The last overload gave the following error.
+    Argument of type '(req: Request, res: Response) => Promise<void | Response<any, Record<string, any>>>' is not assignable to parameter of type 'Application<Record<string, any>>'.
+      Type '(req: Request<ParamsDictionary, any, any, ParsedQs, Record<string, any>>, res: Response<any, Record<string, any>>) => Promise<...>' is missing the following properties from type 'Application<Record<string, any>>': init, defaultConfiguration, engine, set, and 63 more.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/index.ts(14,30): error TS2769: No overload matches this call.
+  The last overload gave the following error.
+    Argument of type '(req: Request, res: Response) => Promise<void | Response<any, Record<string, any>>>' is not assignable to parameter of type 'Application<Record<string, any>>'.
+      Type '(req: Request<ParamsDictionary, any, any, ParsedQs, Record<string, any>>, res: Response<any, Record<string, any>>) => Promise<...>' is missing the following properties from type 'Application<Record<string, any>>': init, defaultConfiguration, engine, set, and 63 more.
+
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\routes\index.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1019:12)
+ [LOGGER] 2024-11-17 10:27:30.681 PM error : uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/index.ts(14,30): error TS2769: No overload matches this call.
+  The last overload gave the following error.
+    Argument of type '(req: Request, res: Response) => Promise<void | Response<any, Record<string, any>>>' is not assignable to parameter of type 'Application<Record<string, any>>'.
+      Type '(req: Request<ParamsDictionary, any, any, ParsedQs, Record<string, any>>, res: Response<any, Record<string, any>>) => Promise<...>' is missing the following properties from type 'Application<Record<string, any>>': init, defaultConfiguration, engine, set, and 63 more.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/index.ts(14,30): error TS2769: No overload matches this call.
+  The last overload gave the following error.
+    Argument of type '(req: Request, res: Response) => Promise<void | Response<any, Record<string, any>>>' is not assignable to parameter of type 'Application<Record<string, any>>'.
+      Type '(req: Request<ParamsDictionary, any, any, ParsedQs, Record<string, any>>, res: Response<any, Record<string, any>>) => Promise<...>' is missing the following properties from type 'Application<Record<string, any>>': init, defaultConfiguration, engine, set, and 63 more.
+
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\routes\index.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1019:12)
+ [LOGGER] 2024-11-17 10:28:07.808 PM error : uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/index.ts(14,24): error TS2769: No overload matches this call.
+  The last overload gave the following error.
+    Argument of type '(req: Request, res: Response) => Promise<void | Response<any, Record<string, any>>>' is not assignable to parameter of type 'Application<Record<string, any>>'.
+      Type '(req: Request<ParamsDictionary, any, any, ParsedQs, Record<string, any>>, res: Response<any, Record<string, any>>) => Promise<...>' is missing the following properties from type 'Application<Record<string, any>>': init, defaultConfiguration, engine, set, and 63 more.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/index.ts(14,24): error TS2769: No overload matches this call.
+  The last overload gave the following error.
+    Argument of type '(req: Request, res: Response) => Promise<void | Response<any, Record<string, any>>>' is not assignable to parameter of type 'Application<Record<string, any>>'.
+      Type '(req: Request<ParamsDictionary, any, any, ParsedQs, Record<string, any>>, res: Response<any, Record<string, any>>) => Promise<...>' is missing the following properties from type 'Application<Record<string, any>>': init, defaultConfiguration, engine, set, and 63 more.
+
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\routes\index.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1019:12)
+ [LOGGER] 2024-11-17 10:28:12.881 PM error : uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/index.ts(14,30): error TS2769: No overload matches this call.
+  The last overload gave the following error.
+    Argument of type '(req: Request, res: Response) => Promise<void | Response<any, Record<string, any>>>' is not assignable to parameter of type 'Application<Record<string, any>>'.
+      Type '(req: Request<ParamsDictionary, any, any, ParsedQs, Record<string, any>>, res: Response<any, Record<string, any>>) => Promise<...>' is missing the following properties from type 'Application<Record<string, any>>': init, defaultConfiguration, engine, set, and 63 more.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/index.ts(14,30): error TS2769: No overload matches this call.
+  The last overload gave the following error.
+    Argument of type '(req: Request, res: Response) => Promise<void | Response<any, Record<string, any>>>' is not assignable to parameter of type 'Application<Record<string, any>>'.
+      Type '(req: Request<ParamsDictionary, any, any, ParsedQs, Record<string, any>>, res: Response<any, Record<string, any>>) => Promise<...>' is missing the following properties from type 'Application<Record<string, any>>': init, defaultConfiguration, engine, set, and 63 more.
+
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\routes\index.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1019:12)
+ [LOGGER] 2024-11-17 10:32:39.720 PM error : uncaughtException: require() of ES Module E:\PROJECT\tes-wawancara\backend\node_modules\nanoid\index.js from E:\PROJECT\tes-wawancara\backend\src\libs\generateId.ts not supported.
+Instead change the require of index.js in E:\PROJECT\tes-wawancara\backend\src\libs\generateId.ts to a dynamic import() which is available in all CommonJS modules.
+Error [ERR_REQUIRE_ESM]: require() of ES Module E:\PROJECT\tes-wawancara\backend\node_modules\nanoid\index.js from E:\PROJECT\tes-wawancara\backend\src\libs\generateId.ts not supported.
+Instead change the require of index.js in E:\PROJECT\tes-wawancara\backend\src\libs\generateId.ts to a dynamic import() which is available in all CommonJS modules.
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:114:20)
+    at Object.nodeDevHook [as .js] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\libs\generateId.ts:3:18)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\repositories\ProfileRepo.ts:8:38)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\modules\profile\ProfileService.ts:9:23)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\modules\profile\ProfileController.ts:7:26)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\routes\index.ts:4:29)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\server\httpServer.ts:12:34)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\index.ts:5:22)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\wrap.js:104:1)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:95:24)
+ [LOGGER] 2024-11-17 10:33:01.339 PM error : uncaughtException: require() of ES Module E:\PROJECT\tes-wawancara\backend\node_modules\nanoid\index.js from E:\PROJECT\tes-wawancara\backend\src\libs\generateId.ts not supported.
+Instead change the require of index.js in E:\PROJECT\tes-wawancara\backend\src\libs\generateId.ts to a dynamic import() which is available in all CommonJS modules.
+Error [ERR_REQUIRE_ESM]: require() of ES Module E:\PROJECT\tes-wawancara\backend\node_modules\nanoid\index.js from E:\PROJECT\tes-wawancara\backend\src\libs\generateId.ts not supported.
+Instead change the require of index.js in E:\PROJECT\tes-wawancara\backend\src\libs\generateId.ts to a dynamic import() which is available in all CommonJS modules.
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:114:20)
+    at Object.nodeDevHook [as .js] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\libs\generateId.ts:3:18)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\repositories\ProfileRepo.ts:8:38)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\modules\profile\ProfileService.ts:9:23)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\modules\profile\ProfileController.ts:7:26)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\routes\index.ts:4:29)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\server\httpServer.ts:12:34)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\index.ts:5:22)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\wrap.js:104:1)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:95:24)
+ [LOGGER] 2024-11-17 10:33:06.638 PM error : uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/index.ts(14,30): error TS2769: No overload matches this call.
+  The last overload gave the following error.
+    Argument of type '(req: Request, res: Response) => Promise<void | Response<any, Record<string, any>>>' is not assignable to parameter of type 'Application<Record<string, any>>'.
+      Type '(req: Request<ParamsDictionary, any, any, ParsedQs, Record<string, any>>, res: Response<any, Record<string, any>>) => Promise<...>' is missing the following properties from type 'Application<Record<string, any>>': init, defaultConfiguration, engine, set, and 63 more.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/index.ts(14,30): error TS2769: No overload matches this call.
+  The last overload gave the following error.
+    Argument of type '(req: Request, res: Response) => Promise<void | Response<any, Record<string, any>>>' is not assignable to parameter of type 'Application<Record<string, any>>'.
+      Type '(req: Request<ParamsDictionary, any, any, ParsedQs, Record<string, any>>, res: Response<any, Record<string, any>>) => Promise<...>' is missing the following properties from type 'Application<Record<string, any>>': init, defaultConfiguration, engine, set, and 63 more.
+
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\routes\index.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8811403589206601.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1019:12)
+ [LOGGER] 2024-11-17 10:48:11.649 PM error : uncaughtException: require() of ES Module E:\PROJECT\tes-wawancara\backend\node_modules\nanoid\index.js from E:\PROJECT\tes-wawancara\backend\src\libs\generateId.ts not supported.
+Instead change the require of index.js in E:\PROJECT\tes-wawancara\backend\src\libs\generateId.ts to a dynamic import() which is available in all CommonJS modules.
+Error [ERR_REQUIRE_ESM]: require() of ES Module E:\PROJECT\tes-wawancara\backend\node_modules\nanoid\index.js from E:\PROJECT\tes-wawancara\backend\src\libs\generateId.ts not supported.
+Instead change the require of index.js in E:\PROJECT\tes-wawancara\backend\src\libs\generateId.ts to a dynamic import() which is available in all CommonJS modules.
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:114:20)
+    at Object.nodeDevHook [as .js] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\libs\generateId.ts:3:18)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\repositories\ProfileRepo.ts:8:38)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\modules\profile\ProfileService.ts:9:23)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\modules\profile\ProfileController.ts:7:26)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\routes\index.ts:4:29)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\server\httpServer.ts:12:34)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\index.ts:5:22)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\wrap.js:104:1)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:95:24)
+ [LOGGER] 2024-11-17 10:50:18.396 PM error : uncaughtException: require() of ES Module E:\PROJECT\tes-wawancara\backend\node_modules\nanoid\index.js from E:\PROJECT\tes-wawancara\backend\src\libs\generateId.ts not supported.
+Instead change the require of index.js in E:\PROJECT\tes-wawancara\backend\src\libs\generateId.ts to a dynamic import() which is available in all CommonJS modules.
+Error [ERR_REQUIRE_ESM]: require() of ES Module E:\PROJECT\tes-wawancara\backend\node_modules\nanoid\index.js from E:\PROJECT\tes-wawancara\backend\src\libs\generateId.ts not supported.
+Instead change the require of index.js in E:\PROJECT\tes-wawancara\backend\src\libs\generateId.ts to a dynamic import() which is available in all CommonJS modules.
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:114:20)
+    at Object.nodeDevHook [as .js] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\libs\generateId.ts:4:18)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\repositories\ProfileRepo.ts:8:38)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\modules\profile\ProfileService.ts:9:23)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\modules\profile\ProfileController.ts:7:26)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\routes\index.ts:4:29)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\server\httpServer.ts:12:34)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\index.ts:5:22)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\wrap.js:104:1)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:95:24)
+ [LOGGER] 2024-11-17 10:50:24.217 PM error : uncaughtException: require() of ES Module E:\PROJECT\tes-wawancara\backend\node_modules\nanoid\index.js from E:\PROJECT\tes-wawancara\backend\src\libs\generateId.ts not supported.
+Instead change the require of index.js in E:\PROJECT\tes-wawancara\backend\src\libs\generateId.ts to a dynamic import() which is available in all CommonJS modules.
+Error [ERR_REQUIRE_ESM]: require() of ES Module E:\PROJECT\tes-wawancara\backend\node_modules\nanoid\index.js from E:\PROJECT\tes-wawancara\backend\src\libs\generateId.ts not supported.
+Instead change the require of index.js in E:\PROJECT\tes-wawancara\backend\src\libs\generateId.ts to a dynamic import() which is available in all CommonJS modules.
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:114:20)
+    at Object.nodeDevHook [as .js] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\libs\generateId.ts:4:18)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\repositories\ProfileRepo.ts:5:22)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\modules\profile\ProfileService.ts:9:23)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\modules\profile\ProfileController.ts:7:26)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\routes\index.ts:4:29)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\server\httpServer.ts:12:34)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\index.ts:5:22)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\wrap.js:104:1)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:95:24)
+ [LOGGER] 2024-11-17 10:51:02.285 PM error : uncaughtException: require() of ES Module E:\PROJECT\tes-wawancara\backend\node_modules\nanoid\index.js from E:\PROJECT\tes-wawancara\backend\src\repositories\ProfileRepo.ts not supported.
+Instead change the require of index.js in E:\PROJECT\tes-wawancara\backend\src\repositories\ProfileRepo.ts to a dynamic import() which is available in all CommonJS modules.
+Error [ERR_REQUIRE_ESM]: require() of ES Module E:\PROJECT\tes-wawancara\backend\node_modules\nanoid\index.js from E:\PROJECT\tes-wawancara\backend\src\repositories\ProfileRepo.ts not supported.
+Instead change the require of index.js in E:\PROJECT\tes-wawancara\backend\src\repositories\ProfileRepo.ts to a dynamic import() which is available in all CommonJS modules.
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:114:20)
+    at Object.nodeDevHook [as .js] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\repositories\ProfileRepo.ts:5:18)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\modules\profile\ProfileService.ts:9:23)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\modules\profile\ProfileController.ts:7:26)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\routes\index.ts:4:29)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\server\httpServer.ts:12:34)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\index.ts:5:22)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\wrap.js:104:1)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:95:24)
+ [LOGGER] 2024-11-17 10:52:16.557 PM error : uncaughtException: require() of ES Module E:\PROJECT\tes-wawancara\backend\node_modules\nanoid\index.js from E:\PROJECT\tes-wawancara\backend\src\repositories\ProfileRepo.ts not supported.
+Instead change the require of index.js in E:\PROJECT\tes-wawancara\backend\src\repositories\ProfileRepo.ts to a dynamic import() which is available in all CommonJS modules.
+Error [ERR_REQUIRE_ESM]: require() of ES Module E:\PROJECT\tes-wawancara\backend\node_modules\nanoid\index.js from E:\PROJECT\tes-wawancara\backend\src\repositories\ProfileRepo.ts not supported.
+Instead change the require of index.js in E:\PROJECT\tes-wawancara\backend\src\repositories\ProfileRepo.ts to a dynamic import() which is available in all CommonJS modules.
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:114:20)
+    at Object.nodeDevHook [as .js] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\repositories\ProfileRepo.ts:5:18)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\modules\profile\ProfileService.ts:9:23)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\modules\profile\ProfileController.ts:7:26)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\routes\index.ts:4:29)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\server\httpServer.ts:12:34)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\index.ts:5:22)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\wrap.js:104:1)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:95:24)
+ [LOGGER] 2024-11-17 10:53:07.250 PM error : uncaughtException: require() of ES Module E:\PROJECT\tes-wawancara\backend\node_modules\nanoid\index.js from E:\PROJECT\tes-wawancara\backend\src\repositories\ProfileRepo.ts not supported.
+Instead change the require of index.js in E:\PROJECT\tes-wawancara\backend\src\repositories\ProfileRepo.ts to a dynamic import() which is available in all CommonJS modules.
+Error [ERR_REQUIRE_ESM]: require() of ES Module E:\PROJECT\tes-wawancara\backend\node_modules\nanoid\index.js from E:\PROJECT\tes-wawancara\backend\src\repositories\ProfileRepo.ts not supported.
+Instead change the require of index.js in E:\PROJECT\tes-wawancara\backend\src\repositories\ProfileRepo.ts to a dynamic import() which is available in all CommonJS modules.
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:114:20)
+    at Object.nodeDevHook [as .js] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\repositories\ProfileRepo.ts:5:18)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\modules\profile\ProfileService.ts:9:23)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\modules\profile\ProfileController.ts:7:26)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\routes\index.ts:4:29)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\server\httpServer.ts:12:34)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\index.ts:5:22)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\wrap.js:104:1)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:95:24)
+ [LOGGER] 2024-11-17 10:53:27.950 PM error : uncaughtException: require() of ES Module E:\PROJECT\tes-wawancara\backend\node_modules\nanoid\index.js from E:\PROJECT\tes-wawancara\backend\src\repositories\ProfileRepo.ts not supported.
+Instead change the require of index.js in E:\PROJECT\tes-wawancara\backend\src\repositories\ProfileRepo.ts to a dynamic import() which is available in all CommonJS modules.
+Error [ERR_REQUIRE_ESM]: require() of ES Module E:\PROJECT\tes-wawancara\backend\node_modules\nanoid\index.js from E:\PROJECT\tes-wawancara\backend\src\repositories\ProfileRepo.ts not supported.
+Instead change the require of index.js in E:\PROJECT\tes-wawancara\backend\src\repositories\ProfileRepo.ts to a dynamic import() which is available in all CommonJS modules.
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:114:20)
+    at Object.nodeDevHook [as .js] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\repositories\ProfileRepo.ts:5:18)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\modules\profile\ProfileService.ts:9:23)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\modules\profile\ProfileController.ts:7:26)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\routes\index.ts:4:29)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\server\httpServer.ts:12:34)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\index.ts:5:22)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\wrap.js:104:1)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:95:24)
+ [LOGGER] 2024-11-17 10:53:39.901 PM error : uncaughtException: require() of ES Module E:\PROJECT\tes-wawancara\backend\node_modules\nanoid\index.js from E:\PROJECT\tes-wawancara\backend\src\repositories\ProfileRepo.ts not supported.
+Instead change the require of index.js in E:\PROJECT\tes-wawancara\backend\src\repositories\ProfileRepo.ts to a dynamic import() which is available in all CommonJS modules.
+Error [ERR_REQUIRE_ESM]: require() of ES Module E:\PROJECT\tes-wawancara\backend\node_modules\nanoid\index.js from E:\PROJECT\tes-wawancara\backend\src\repositories\ProfileRepo.ts not supported.
+Instead change the require of index.js in E:\PROJECT\tes-wawancara\backend\src\repositories\ProfileRepo.ts to a dynamic import() which is available in all CommonJS modules.
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:114:20)
+    at Object.nodeDevHook [as .js] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\repositories\ProfileRepo.ts:5:18)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\modules\profile\ProfileService.ts:9:23)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\modules\profile\ProfileController.ts:7:26)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\routes\index.ts:4:29)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\server\httpServer.ts:12:34)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\index.ts:5:22)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\wrap.js:104:1)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:95:24)
+ [LOGGER] 2024-11-17 10:54:02.086 PM error : uncaughtException: ⨯ Unable to compile TypeScript:
+src/repositories/ProfileRepo.ts(24,9): error TS2322: Type 'number' is not assignable to type 'string'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/repositories/ProfileRepo.ts(24,9): error TS2322: Type 'number' is not assignable to type 'string'.
+
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\repositories\ProfileRepo.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1019:12)
+ [LOGGER] 2024-11-17 10:54:06.246 PM error : uncaughtException: ⨯ Unable to compile TypeScript:
+src/libs/responses/apiError.ts(12,19): error TS2339: Property 'captureStackTrace' does not exist on type 'ErrorConstructor'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/libs/responses/apiError.ts(12,19): error TS2339: Property 'captureStackTrace' does not exist on type 'ErrorConstructor'.
+
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\libs\responses\apiError.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-07014265877516235.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1019:12)
+ [LOGGER] 2024-11-17 10:54:57.691 PM error : uncaughtException: require() of ES Module E:\PROJECT\tes-wawancara\backend\node_modules\nanoid\index.js from E:\PROJECT\tes-wawancara\backend\src\libs\generateId.ts not supported.
+Instead change the require of index.js in E:\PROJECT\tes-wawancara\backend\src\libs\generateId.ts to a dynamic import() which is available in all CommonJS modules.
+Error [ERR_REQUIRE_ESM]: require() of ES Module E:\PROJECT\tes-wawancara\backend\node_modules\nanoid\index.js from E:\PROJECT\tes-wawancara\backend\src\libs\generateId.ts not supported.
+Instead change the require of index.js in E:\PROJECT\tes-wawancara\backend\src\libs\generateId.ts to a dynamic import() which is available in all CommonJS modules.
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-7568803243460136.js:114:20)
+    at Object.nodeDevHook [as .js] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\libs\generateId.ts:4:18)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-7568803243460136.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-7568803243460136.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-7568803243460136.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\repositories\ProfileRepo.ts:5:22)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-7568803243460136.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-7568803243460136.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-7568803243460136.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\modules\profile\ProfileService.ts:9:23)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-7568803243460136.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-7568803243460136.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-7568803243460136.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\modules\profile\ProfileController.ts:7:26)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-7568803243460136.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-7568803243460136.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-7568803243460136.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\routes\index.ts:4:29)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-7568803243460136.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-7568803243460136.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-7568803243460136.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\server\httpServer.ts:12:34)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-7568803243460136.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-7568803243460136.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-7568803243460136.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\index.ts:5:22)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-7568803243460136.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-7568803243460136.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-7568803243460136.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\wrap.js:104:1)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-7568803243460136.js:95:24)
+ [LOGGER] 2024-11-17 10:57:00.536 PM error : uncaughtException: ⨯ Unable to compile TypeScript:
+src/repositories/ProfileRepo.ts(23,31): error TS2322: Type '(size?: number) => string' is not assignable to type 'string'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/repositories/ProfileRepo.ts(23,31): error TS2322: Type '(size?: number) => string' is not assignable to type 'string'.
+
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\repositories\ProfileRepo.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-08234302307806374.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-08234302307806374.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-08234302307806374.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1019:12)
+ [LOGGER] 2024-11-17 10:57:49.586 PM error : uncaughtException: require() of ES Module E:\PROJECT\tes-wawancara\backend\node_modules\nanoid\index.js from E:\PROJECT\tes-wawancara\backend\src\libs\generateId.ts not supported.
+Instead change the require of index.js in E:\PROJECT\tes-wawancara\backend\src\libs\generateId.ts to a dynamic import() which is available in all CommonJS modules.
+Error [ERR_REQUIRE_ESM]: require() of ES Module E:\PROJECT\tes-wawancara\backend\node_modules\nanoid\index.js from E:\PROJECT\tes-wawancara\backend\src\libs\generateId.ts not supported.
+Instead change the require of index.js in E:\PROJECT\tes-wawancara\backend\src\libs\generateId.ts to a dynamic import() which is available in all CommonJS modules.
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-2526991049124969.js:114:20)
+    at Object.nodeDevHook [as .js] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\libs\generateId.ts:4:18)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-2526991049124969.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-2526991049124969.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-2526991049124969.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\repositories\ProfileRepo.ts:5:22)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-2526991049124969.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-2526991049124969.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-2526991049124969.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\modules\profile\ProfileService.ts:9:23)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-2526991049124969.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-2526991049124969.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-2526991049124969.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\modules\profile\ProfileController.ts:7:26)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-2526991049124969.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-2526991049124969.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-2526991049124969.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\routes\index.ts:4:29)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-2526991049124969.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-2526991049124969.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-2526991049124969.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\server\httpServer.ts:12:34)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-2526991049124969.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-2526991049124969.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-2526991049124969.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\index.ts:5:22)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-2526991049124969.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-2526991049124969.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-2526991049124969.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\wrap.js:104:1)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-2526991049124969.js:95:24)
+ [LOGGER] 2024-11-17 10:58:52.587 PM error : uncaughtException: require() of ES Module E:\PROJECT\tes-wawancara\backend\node_modules\nanoid\index.js from E:\PROJECT\tes-wawancara\backend\src\repositories\ProfileRepo.ts not supported.
+Instead change the require of index.js in E:\PROJECT\tes-wawancara\backend\src\repositories\ProfileRepo.ts to a dynamic import() which is available in all CommonJS modules.
+Error [ERR_REQUIRE_ESM]: require() of ES Module E:\PROJECT\tes-wawancara\backend\node_modules\nanoid\index.js from E:\PROJECT\tes-wawancara\backend\src\repositories\ProfileRepo.ts not supported.
+Instead change the require of index.js in E:\PROJECT\tes-wawancara\backend\src\repositories\ProfileRepo.ts to a dynamic import() which is available in all CommonJS modules.
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-2526991049124969.js:114:20)
+    at Object.nodeDevHook [as .js] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\repositories\ProfileRepo.ts:5:18)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-2526991049124969.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-2526991049124969.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-2526991049124969.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\modules\profile\ProfileService.ts:9:23)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-2526991049124969.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-2526991049124969.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-2526991049124969.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\modules\profile\ProfileController.ts:7:26)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-2526991049124969.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-2526991049124969.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-2526991049124969.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\routes\index.ts:4:29)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-2526991049124969.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-2526991049124969.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-2526991049124969.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\server\httpServer.ts:12:34)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-2526991049124969.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-2526991049124969.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-2526991049124969.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\index.ts:5:22)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-2526991049124969.js:69:33)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-2526991049124969.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-2526991049124969.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\wrap.js:104:1)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-2526991049124969.js:95:24)
+ [LOGGER] 2024-11-17 11:04:17.208 PM error : Profile Code not found
+ [LOGGER] 2024-11-17 11:04:54.314 PM error : uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/index.ts(16,24): error TS2304: Cannot find name 'updateProfile'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/index.ts(16,24): error TS2304: Cannot find name 'updateProfile'.
+
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\routes\index.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8519144545128963.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8519144545128963.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8519144545128963.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1019:12)
+ [LOGGER] 2024-11-17 11:05:11.396 PM error : "phone" with value "08008880000" fails to match the required pattern: /^\+?[1-9]\d{1,14}$/
+ [LOGGER] 2024-11-17 11:06:50.405 PM error : "phone" with value "08008880000" fails to match the required pattern: /^(?:\+62|62|0)8[1-9][0-9]{6,11}$/
+ [LOGGER] 2024-11-17 11:07:20.987 PM error : "phone" with value "080088800000" fails to match the required pattern: /^(?:\+62|62|0)8[1-9][0-9]{6,11}$/
+ [LOGGER] 2024-11-17 11:07:42.423 PM error : "profileCode" is not allowed
+ [LOGGER] 2024-11-17 11:08:57.577 PM error : 
+Invalid `db.profile.create()` invocation in
+E:\PROJECT\tes-wawancara\backend\src\repositories\ProfileRepo.ts:24:35
+
+  21   data: IProfileCreateData,
+  22 ): Promise<IProfile | null> => {
+  23   const profileCode: string = generateId();
+→ 24   const result = await db.profile.create({
+         data: {
+           profileCode: "(size = defaultSize) => {\n    let id = ''\n    while (true) {\n      let bytes = getRandom(step)\n      let i = step\n      while (i--) {\n        id += alphabet[bytes[i] & mask] || ''\n        if (id.length === size) return id\n      }\n    }\n  }",
+           wantedJobTitle: "Software Engineer",
+           firstName: "Namaku",
+           lastName: "Ukaman",
+           email: "ukaman.namaku@gmail.com",
+           phone: "082337831456",
+           country: "Indonesia",
+           city: "Jakarta",
+           address: "Jl. Gatot Subroto",
+           postalCode: 200001,
+           drivingLicense: "1234567890123456",
+           nationality: "Indonesia",
+           placeOfBirth: "Maluku",
+           dateOfBirth: "07-12-1988"
+                        ~~~~~~~~~~~~
+         }
+       })
+
+Invalid value for argument `dateOfBirth`: input contains invalid characters. Expected ISO-8601 DateTime.
+ [LOGGER] 2024-11-17 11:11:01.293 PM error : uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/index.ts(15,20): error TS2769: No overload matches this call.
+  The last overload gave the following error.
+    Argument of type '(req: Request, res: Response) => Response<any, Record<string, any>>' is not assignable to parameter of type 'Application<Record<string, any>>'.
+      Type '(req: Request<ParamsDictionary, any, any, ParsedQs, Record<string, any>>, res: Response<any, Record<string, any>>) => Response<...>' is missing the following properties from type 'Application<Record<string, any>>': init, defaultConfiguration, engine, set, and 63 more.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/index.ts(15,20): error TS2769: No overload matches this call.
+  The last overload gave the following error.
+    Argument of type '(req: Request, res: Response) => Response<any, Record<string, any>>' is not assignable to parameter of type 'Application<Record<string, any>>'.
+      Type '(req: Request<ParamsDictionary, any, any, ParsedQs, Record<string, any>>, res: Response<any, Record<string, any>>) => Response<...>' is missing the following properties from type 'Application<Record<string, any>>': init, defaultConfiguration, engine, set, and 63 more.
+
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\routes\index.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8519144545128963.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8519144545128963.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-8519144545128963.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1019:12)
+ [LOGGER] 2024-11-17 11:16:39.300 PM error : uncaughtException: ⨯ Unable to compile TypeScript:
+src/libs/generateId.ts(8,29): error TS2339: Property 'id' does not exist on type '(size?: number) => string'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/libs/generateId.ts(8,29): error TS2339: Property 'id' does not exist on type '(size?: number) => string'.
+
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\libs\generateId.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-1869607448199162.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-1869607448199162.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-1869607448199162.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1019:12)
+ [LOGGER] 2024-11-17 11:16:52.594 PM error : uncaughtException: ⨯ Unable to compile TypeScript:
+src/libs/generateId.ts(8,30): error TS2339: Property 'id' does not exist on type '(size?: number) => string'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/libs/generateId.ts(8,30): error TS2339: Property 'id' does not exist on type '(size?: number) => string'.
+
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\libs\generateId.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-1869607448199162.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-1869607448199162.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-1869607448199162.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1019:12)
+ [LOGGER] 2024-11-17 11:18:54.730 PM error : uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\PROJECT\tes-wawancara\backend\node_modules\express\lib\router\route.js:216:15)
+    at Function.proto.<computed> [as get] (E:\PROJECT\tes-wawancara\backend\node_modules\express\lib\router\index.js:521:19)
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\routes\index.ts:15:8)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-1869607448199162.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-1869607448199162.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-1869607448199162.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+ [LOGGER] 2024-11-17 11:19:24.916 PM error : 
+Invalid `db.profile.create()` invocation in
+E:\PROJECT\tes-wawancara\backend\src\repositories\ProfileRepo.ts:24:35
+
+  21   data: IProfileCreateData,
+  22 ): Promise<IProfile | null> => {
+  23   const profileCode: string = generateId();
+→ 24   const result = await db.profile.create({
+         data: {
+           profileCode: "vjrlijGjeAkAFn4JCQNy",
+           wantedJobTitle: "Software Engineer",
+           firstName: "Namaku",
+           lastName: "Ukaman",
+           email: "ukaman.namaku@gmail.com",
+           phone: "082337831456",
+           country: "Indonesia",
+           city: "Jakarta",
+           address: "Jl. Gatot Subroto",
+           postalCode: 200001,
+           drivingLicense: "1234567890123456",
+           nationality: "Indonesia",
+           placeOfBirth: "Maluku",
+           dateOfBirth: "07-12-1988"
+                        ~~~~~~~~~~~~
+         }
+       })
+
+Invalid value for argument `dateOfBirth`: input contains invalid characters. Expected ISO-8601 DateTime.
+ [LOGGER] 2024-11-17 11:28:30.775 PM error : uncaughtException: ⨯ Unable to compile TypeScript:
+src/modules/profile/ProfileDto.ts(57,32): error TS2554: Expected 2 arguments, but got 1.
+
+Error: ⨯ Unable to compile TypeScript:
+src/modules/profile/ProfileDto.ts(57,32): error TS2554: Expected 2 arguments, but got 1.
+
+    at Object.<anonymous> (E:\PROJECT\tes-wawancara\backend\src\modules\profile\ProfileDto.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._compile (E:\PROJECT\tes-wawancara\backend\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-1869607448199162.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-1869607448199162.js:114:20)
+    at require.extensions.<computed> (C:\Users\irulh\AppData\Local\Temp\ts-node-dev-hook-1869607448199162.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\PROJECT\tes-wawancara\backend\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1019:12)
+ [LOGGER] 2024-11-17 11:28:50.344 PM error : "dateOfBirth" with value "1988-12-07T00:00:00+07:00" fails to match the required pattern: /^(0[1-9]|[12][0-9]|3[01])-(0[1-9]|1[0-2])-\d{4}$/
+ [LOGGER] 2024-11-17 11:30:03.376 PM error : "dateOfBirth" with value "1988-12-07T00:00:00+07:00" fails to match the required pattern: /^(0[1-9]|[12][0-9]|3[01])-(0[1-9]|1[0-2])-\d{4}$/
+ [LOGGER] 2024-11-17 11:31:58.738 PM error : "phone" with value "08008880000" fails to match the required pattern: /^(?:\+62|62|0)8[1-9][0-9]{6,11}$/
+ [LOGGER] 2024-11-17 11:32:43.545 PM error : "phone" with value "080088800001" fails to match the required pattern: /^(?:\+62|62|0)8[1-9][0-9]{6,11}$/
