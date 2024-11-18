@@ -1,6 +1,8 @@
 <script setup>
 import { ref } from "vue";
-import { Country, City } from "country-state-city";
+// import { Country, City } from "country-state-city";
+import Country from "@/assets/country-city/country.json";
+import City from "@/assets/country-city/city.json";
 import { useField, useForm } from "vee-validate";
 
 import { personalSchema } from "@/schemas/personalSchema";
@@ -39,20 +41,21 @@ const { value: professionalSummary } = useField("professionalSummary");
 
 const errorPhoto = ref(null);
 
-const countries = Country.getAllCountries()
-  .slice(0, 120)
-  .map((item) => {
-    return { value: item.isoCode, text: item.name };
-  });
+const countries = Country.slice(0, 120).map((item) => {
+  return { value: item.isoCode, text: item.name };
+});
 
 const optCities = ref([]);
 
 const getCities = (sortName) => {
-  const city = City.getCitiesOfCountry(sortName);
+  // const city = City.filter(sortName);
 
-  optCities.value = city.slice(0, 120).map((item) => {
-    return { value: item.name, text: item.name };
-  });
+  optCities.value = City.filter((item) => item[1] == sortName)
+    .slice(0, 120)
+    .map((item) => {
+      console.log(item);
+      return { value: item[0], text: item[0] };
+    });
 };
 
 const readPhoto = (event) => {
