@@ -4,6 +4,7 @@ build/
 .env
 .env.backup
 .env.production
+.env.test
 note.txt
 auth.json
 npm-debug.log

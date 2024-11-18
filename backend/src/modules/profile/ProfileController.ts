@@ -8,6 +8,7 @@ import {
 } from "./ProfileService";
 import HandleError from "../../libs/responses/handleError";
 import { logger } from "../../libs/logger/logger";
+import { configApp } from "../../config/app";
 
 const showProfile = async (req: Request, res: Response): Promise<any> => {
   try {
@@ -16,7 +17,7 @@ const showProfile = async (req: Request, res: Response): Promise<any> => {
 
     return res.status(200).json(result);
   } catch (error) {
-    logger.error(error);
+    if (configApp.env != "test") logger.error(error);
     return HandleError(error, res);
   }
 };
@@ -28,7 +29,7 @@ const createProfile = async (req: Request, res: Response): Promise<any> => {
 
     return res.status(200).json(result);
   } catch (error) {
-    logger.error(error);
+    if (configApp.env != "test") logger.error(error);
     return HandleError(error, res);
   }
 };
@@ -41,7 +42,7 @@ const editProfile = async (req: Request, res: Response): Promise<any> => {
 
     return res.status(200).json(result);
   } catch (error) {
-    logger.error(error);
+    if (configApp.env != "test") logger.error(error);
     return HandleError(error, res);
   }
 };
@@ -56,7 +57,7 @@ const getWorkingExperience = async (
 
     return res.status(200).json(result);
   } catch (error) {
-    logger.error(error);
+    if (configApp.env != "test") logger.error(error);
     return HandleError(error, res);
   }
 };
@@ -72,7 +73,7 @@ const editWorkingExperience = async (
 
     return res.status(200).json(result);
   } catch (error) {
-    logger.error(error);
+    if (configApp.env != "test") logger.error(error);
     return HandleError(error, res);
   }
 };

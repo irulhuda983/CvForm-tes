@@ -1,5 +1,12 @@
-import "dotenv/config";
+// import "dotenv/config";
+import dotenv from "dotenv";
 import Joi from "joi";
+
+if (process.env.NODE_ENV === "test") {
+  dotenv.config({ path: ".env.test" });
+} else {
+  dotenv.config({ path: ".env" });
+}
 
 export interface ConfigApp {
   env: "development" | "production" | "test";

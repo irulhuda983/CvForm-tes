@@ -64,6 +64,8 @@ const deleteSkillByProfileCode = async (profileCode: string, id: number) => {
     .replace(/<\/?[^>]+(>|$)/g, "")
     .replace(/['";-]/g, "");
 
+  if (isNaN(id)) throw new ApiError(404, "Skill not found");
+
   let where = {
     AND: [{ profileCode: code }, { id }],
   };

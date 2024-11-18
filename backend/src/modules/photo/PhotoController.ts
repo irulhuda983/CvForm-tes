@@ -6,6 +6,7 @@ import {
 } from "./PhotoService";
 import HandleError from "../../libs/responses/handleError";
 import { logger } from "../../libs/logger/logger";
+import { configApp } from "../../config/app";
 
 const downloadPhoto = async (req: Request, res: Response): Promise<any> => {
   try {
@@ -14,7 +15,7 @@ const downloadPhoto = async (req: Request, res: Response): Promise<any> => {
 
     return res.status(200).send(result);
   } catch (error) {
-    logger.error(error);
+    if (configApp.env != "test") logger.error(error);
     return HandleError(error, res);
   }
 };
@@ -27,7 +28,7 @@ const uploadPhoto = async (req: Request, res: Response): Promise<any> => {
 
     return res.status(200).json(result);
   } catch (error) {
-    logger.error(error);
+    if (configApp.env != "test") logger.error(error);
     return HandleError(error, res);
   }
 };
@@ -39,7 +40,7 @@ const deletePhoto = async (req: Request, res: Response): Promise<any> => {
 
     return res.status(200).json(result);
   } catch (error) {
-    logger.error(error);
+    if (configApp.env != "test") logger.error(error);
     return HandleError(error, res);
   }
 };

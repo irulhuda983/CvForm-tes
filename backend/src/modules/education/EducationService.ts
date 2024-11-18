@@ -67,6 +67,8 @@ const deleteEducationByProfileCode = async (
     .replace(/<\/?[^>]+(>|$)/g, "")
     .replace(/['";-]/g, "");
 
+  if (isNaN(id)) throw new ApiError(404, "Education not found");
+
   let where = {
     AND: [{ profileCode: code }, { id }],
   };

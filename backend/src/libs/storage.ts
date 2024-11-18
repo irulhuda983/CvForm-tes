@@ -36,10 +36,10 @@ const uploadFile = multer({
 const deleteFile = (filePath: any) => {
   fs.unlink(filePath, (err) => {
     if (err) {
-      console.error("Error deleting file:", err);
+      // console.error("Error deleting file:", err);
       return;
     }
-    console.log("File successfully deleted");
+    // console.log("File successfully deleted");
   });
 };
 

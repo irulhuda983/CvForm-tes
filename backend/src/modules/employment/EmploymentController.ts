@@ -6,6 +6,7 @@ import {
 } from "./EmploymentService";
 import HandleError from "../../libs/responses/handleError";
 import { logger } from "../../libs/logger/logger";
+import { configApp } from "../../config/app";
 
 const showEmployment = async (req: Request, res: Response): Promise<any> => {
   try {
@@ -14,7 +15,7 @@ const showEmployment = async (req: Request, res: Response): Promise<any> => {
 
     return res.status(200).json(result);
   } catch (error) {
-    logger.error(error);
+    if (configApp.env != "test") logger.error(error);
     return HandleError(error, res);
   }
 };
@@ -27,7 +28,7 @@ const createEmployment = async (req: Request, res: Response): Promise<any> => {
 
     return res.status(200).json(result);
   } catch (error) {
-    logger.error(error);
+    if (configApp.env != "test") logger.error(error);
     return HandleError(error, res);
   }
 };
@@ -43,7 +44,7 @@ const deleteEmployment = async (req: Request, res: Response): Promise<any> => {
 
     return res.status(200).json(result);
   } catch (error) {
-    logger.error(error);
+    if (configApp.env != "test") logger.error(error);
     return HandleError(error, res);
   }
 };
