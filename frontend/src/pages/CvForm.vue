@@ -1,6 +1,6 @@
 <script setup>
 import { ref } from "vue";
-import { Country, State, City } from "country-state-city";
+import { Country, City } from "country-state-city";
 import { useField, useForm } from "vee-validate";
 
 import { personalSchema } from "@/schemas/personalSchema";
