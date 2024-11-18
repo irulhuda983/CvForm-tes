@@ -1,6 +1,6 @@
 <script setup>
 import { ref } from "vue";
-import * as cityCountry from "countrycitystatejson";
+import { Country, State, City } from "country-state-city";
 import { useField, useForm } from "vee-validate";
 
 import { personalSchema } from "@/schemas/personalSchema";
@@ -39,28 +39,20 @@ const { value: professionalSummary } = useField("professionalSummary");
 
 const errorPhoto = ref(null);
 
-const countries = cityCountry
-  .getCountries()
+const countries = Country.getAllCountries()
   .slice(0, 120)
   .map((item) => {
-    return { value: item.shortName, text: item.name };
+    return { value: item.isoCode, text: item.name };
   });
 
-const cities = ref([]);
+const optCities = ref([]);
 
-const getCities = (shortName) => {
-  const country = cityCountry.getCountryByShort(shortName);
-  const states = country.states;
-  for (const key in states) {
-    let mapStates = states[key].map((item) => {
-      return {
-        value: item.id,
-        text: item.name,
-      };
-    });
+const getCities = (sortName) => {
+  const city = City.getCitiesOfCountry(sortName);
 
-    cities.value = [...cities.value, ...mapStates];
-  }
+  optCities.value = city.slice(0, 120).map((item) => {
+    return { value: item.name, text: item.name };
+  });
 };
 
 const readPhoto = (event) => {
@@ -203,7 +195,7 @@ const onSubmit = handleSubmit((values) => {
           </div>
 
           <div class="w-full lg:w-1/2 box-border">
-            <Combobox ref="refCity" label="City" :list="cities" name="city" v-model="city" />
+            <Combobox ref="refCity" label="City" :list="optCities" name="city" v-model="city" />
           </div>
         </div>
 
